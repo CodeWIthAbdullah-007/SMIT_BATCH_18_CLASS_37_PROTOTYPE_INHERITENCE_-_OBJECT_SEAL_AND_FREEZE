@@ -1,0 +1,2 @@
+# SMIT_BATCH_18_CLASS_37_PROTOTYPE_INHERITENCE_-_OBJECT_SEAL_AND_FREEZE
+This project explains JavaScript Prototype Inheritance along with Object.seal() and Object.freeze(). It demonstrates how objects inherit properties using the prototype chain and how to restrict object modifications for secure and controlled behavior. Includes practical examples to understand inheritance and object immutability concepts clearly.
